@@ -1,2 +1,2 @@
-# Moocs
-projects in moocs
+# MOOC
+projects in different courses
